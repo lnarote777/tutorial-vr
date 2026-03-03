@@ -1,4 +1,5 @@
 # tutorial-vr
 
-video demostracion : 
-<video controls src="video/tutorialVRVideo.mp4"></video>
+## Vídeo de demostración
+
+[▶ Ver vídeo de demostración](video/tutorialVRVideo.mp4)
